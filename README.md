@@ -20,7 +20,7 @@ Below is the list of snippets included in this collection along with their short
 | **postendpoint**       | Template for a POST API endpoint.                               |
 | **orderbyquery**            | LINQ query with ordering.                                       |
 | **groupbyhavingquery**      | LINQ `GroupBy` query with conditions (`HAVING`).                |
-| **groupbyqueryy**            | Basic LINQ `GroupBy` query.                                     |
+| **groupbyquery**            | Basic LINQ `GroupBy` query.                                     |
 | **getendpoint**        | Template for a GET API endpoint.                                |
 | **getmethodtemplate**  | GET method template for CRUD operations.                        |
 | **foreachtmpl**        | Inserts a `foreach` loop template.                              |
